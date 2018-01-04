@@ -50,11 +50,11 @@
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
 <v t="yen.20170108171733.14" a="E"><vh>封面</vh>
-<v t="yen.20170108171733.15" a="E"><vh>封面</vh>
+<v t="yen.20170108171733.15"><vh>封面</vh>
 <v t="leo.20180104203518.1"><vh>封面 - markdown</vh></v>
 </v>
 </v>
-<v t="leo.20180104203318.1" a="E"><vh>w13-15</vh>
+<v t="leo.20180104203318.1"><vh>w13-15</vh>
 <v t="leo.20180104204507.1"><vh>w13-15 - markdown</vh></v>
 </v>
 <v t="leo.20180104205503.1" a="E"><vh>w16-18</vh>
@@ -64,11 +64,16 @@
 <v t="leo.20180104205519.1"><vh>w16-18 - UI</vh>
 <v t="leo.20180104205555.1"><vh>w16-18 - UI - mardown</vh></v>
 </v>
-<v t="leo.20180104211522.1" a="E"><vh>w16-18 - script</vh>
+<v t="leo.20180104211522.1"><vh>w16-18 - script</vh>
 <v t="leo.20180104211522.2"><vh>w16-18 - script - mardown</vh></v>
 </v>
-<v t="leo.20180104212116.1" a="E"><vh>w16-18 - function script</vh>
+<v t="leo.20180104212116.1"><vh>w16-18 - function script</vh>
 <v t="leo.20180104212116.2"><vh>w16-18 - function script - mardown</vh></v>
+</v>
+</v>
+<v t="leo.20180104212645.1" a="E"><vh>end</vh>
+<v t="leo.20180104212707.1" a="E"><vh>end</vh>
+<v t="leo.20180104212716.1"><vh>end - markdown</vh></v>
 </v>
 </v>
 </v>
@@ -195,6 +200,18 @@ def calculate(self, rightOperand, pendingOperator):
         self.factorSoFar /= rightOperand
     return True
 &lt;/code&gt;&lt;/pre&gt;</t>
+<t tx="leo.20180104212645.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20180104212707.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+@others
+&lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104212716.1">## 倉儲連結
+
++ 小組：&lt;https://github.com/40623122/ag5_pyqt5_calculator&gt;
++ 個人：&lt;https://github.com/40623123/my-fossil&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
