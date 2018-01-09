@@ -213,7 +213,8 @@ def calculate(self, rightOperand, pendingOperator):
 <t tx="leo.20180104212716.1">## 倉儲連結
 
 + 小組：&lt;https://github.com/40623122/ag5_pyqt5_calculator&gt;
-+ 個人：&lt;https://github.com/40623123/my-fossil&gt;</t>
++ 個人：&lt;https://github.com/40623123/my-fossil&gt;
+自評:80</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
